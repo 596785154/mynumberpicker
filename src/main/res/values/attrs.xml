@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyNumberPicker">
+        <attr name="highlightTextColor" format="color" />
+        <attr name="highlightsTextSize" format="dimension" />
+        <attr name="besideTextColor" format="color" />
+        <attr name="besideTextSize" format="dimension" />
+    </declare-styleable>
+</resources>
